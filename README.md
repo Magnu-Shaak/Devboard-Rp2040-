@@ -8,5 +8,9 @@ I made these changes for convienience. Having a better LDO is generally just bet
 
 *Replaced some unused i/o pins (VSYS, 3v3_EN, ADC_REF) to breakout some 3 more GPIO pins
 
+## For Reproducing
+If you are recreating this yourself, look at the Readme in production for more information.
 
-<img width="737" height="367" alt="image" src="https://github.com/user-attachments/assets/420c892c-90fb-41c2-9dd8-98ab9919b226" />
+
+The extra connectors I added:
+<img width="370" height="190" alt="image" src="https://github.com/user-attachments/assets/420c892c-90fb-41c2-9dd8-98ab9919b226" />
