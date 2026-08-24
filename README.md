@@ -25,4 +25,5 @@ BOM:
 
 
 The extra connectors I added:
+
 <img width="370" height="190" alt="image" src="https://github.com/user-attachments/assets/420c892c-90fb-41c2-9dd8-98ab9919b226" />
