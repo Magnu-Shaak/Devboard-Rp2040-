@@ -2,11 +2,8 @@ Item, Quantity,Listed Price,"Total Cost [for me]
 (shipping, sales tax)",Link,Source,Notes
 PCB,5,2,2,https://cart.jlcpcb.com/shopcart/cart,JLCPCB,$2 deal
 PCBA,2,33.13,33.13,https://cart.jlcpcb.com/shopcart/cart,JLCPCB,
-,,,,,,
-Custom Duties & taxes,,12.24,12.24,,JLCPCB,US Customs
-JLC Shipping (DDP),,29.98,29.98,,JLCPCB,UPS Express (DDP)
-,,,,,,
-SMT PCBA Coupon,,-10,-10,,JLC PCB,New Account Coupon
-,,,,,,
+Custom Duties & taxes,,12.24,12.24,https://cart.jlcpcb.com/shopcart/cart,JLCPCB,US Customs
+JLC Shipping (DDP),,29.98,29.98,https://cart.jlcpcb.com/shopcart/cart,JLCPCB,UPS Express (DDP)
+SMT PCBA Coupon,,-10,-10,https://cart.jlcpcb.com/shopcart/cart,JLC PCB,New Account Coupon
 ,,,,,,
 Total,7,67.35,67.35,,,
