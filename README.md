@@ -11,6 +11,21 @@ I made these changes for convienience. Having a better LDO is generally just bet
 ## For Reproducing
 If you are recreating this yourself, look at the Readme in production for more information.
 
+BOM:
+| Item                  |  Quantity | Listed Price | Total Cost [for me]  (shipping, sales tax) | Link                                  | Source  | Notes              |
+|-----------------------|-----------|--------------|--------------------------------------------|---------------------------------------|---------|--------------------|
+| PCB                   | 5         | 2            | 2                                          | https://cart.jlcpcb.com/shopcart/cart | JLCPCB  | $2 deal            |
+| PCBA                  | 2         | 33.13        | 33.13                                      | https://cart.jlcpcb.com/shopcart/cart | JLCPCB  |                    |
+|                       |           |              |                                            |                                       |         |                    |
+| Custom Duties & taxes |           | 12.24        | 12.24                                      |                                       | JLCPCB  | US Customs         |
+| JLC Shipping (DDP)    |           | 29.98        | 29.98                                      |                                       | JLCPCB  | UPS Express (DDP)  |
+|                       |           |              |                                            |                                       |         |                    |
+| SMT PCBA Coupon       |           | -10          | -10                                        |                                       | JLC PCB | New Account Coupon |
+|                       |           |              |                                            |                                       |         |                    |
+|                       |           |              |                                            |                                       |         |                    |
+| Total                 | 7         | 67.35        | 67.35                                      |                                       |         |                    |
+
+
 
 The extra connectors I added:
 <img width="370" height="190" alt="image" src="https://github.com/user-attachments/assets/420c892c-90fb-41c2-9dd8-98ab9919b226" />
