@@ -1,7 +1,7 @@
 ---
 title: "RP2040 Devboard (Full GPIO Breakout)"
 github: "https://github.com/Magnu-Shaak/Devboard-Rp2040-"
-description: "Making a Custom rp2040 devboard. Hope to use this for my custom keyboard project."
+description: "Making a Custom rp2040 devboard. Hope to use this for my custom keyboard projects."
 created_at: "2026-08-09"
 total_time: "21h 6m"
 ---
